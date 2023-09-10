@@ -1,0 +1,35 @@
+Mobile Cloud Computing
+
+Links:
+https://expressjs.com/en/starter/generator.html
+https://nodemon.io/
+https://www.npmjs.com/package/mysql2
+https://www.npmjs.com/package/multer
+https://www.npmjs.com/package/randomstring
+https://docs.flutter.dev/deployment/android (Generate Keystore)
+
+- Flutter Dependencies
+https://pub.dev/packages/carousel_slider
+
+- MCC Project Dependencies
+https://pub.dev/packages/image_picker
+https://pub.dev/packages/google_sign_in
+https://pub.dev/packages/http
+https://pub.dev/packages/shared_preferences
+
+Flutter:
+Tab (DefaultTabController, TabBar, Tab, TabBarView) []
+Drawer []
+Image Carousel []
+
+MCC:
+- Flutter:
+Image Picker []
+PopUpMenu []
+- Express:
+Express Routing []
+REST API (GET, POST, PUT, DELETE) []
+API Integration to Flutter []
+File Upload using Multer []
+Express Middleware []
+Google OAuth []
